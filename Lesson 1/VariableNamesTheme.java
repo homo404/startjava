@@ -19,8 +19,8 @@ public class VariableNamesTheme {
         System.out.println("максимальное число = " + maxNumber);
 
         // количество десятков
-        int tensNumber = 481;
-        System.out.println("количество десятков = " + tensNumber);
+        int numberTens = 481;
+        System.out.println("количество десятков = " + numberTens);
 
         // вес собаки
         byte dogWeight = 11;
@@ -47,8 +47,8 @@ public class VariableNamesTheme {
         System.out.println("тип сообщения = " + messageType);
 
         // число нулей
-        int nullNumber = 301;
-        System.out.println("число нулей = " + nullNumber);
+        int numberNull = 301;
+        System.out.println("число нулей = " + numberNull);
 
         // уникальное число
         int uniqueNumber = 45335;
@@ -79,8 +79,8 @@ public class VariableNamesTheme {
         System.out.println("пункт меню = " + menuItem);
 
         // стоимость кофе на вынос
-        int coffeePrice = 207;
-        System.out.println("стоимость кофе на вынос = " + coffeePrice);
+        int coffeeToGoPrice = 207;
+        System.out.println("стоимость кофе на вынос = " + coffeeToGoPrice);
 
         // дата начала
         String startDate = "01.01.2024";
@@ -121,8 +121,8 @@ public class VariableNamesTheme {
         System.out.println("\n2. boolean-переменные");
 
         // сотни равны?
-        boolean areHundredsEqual = 34 == 55;
-        System.out.println("сотни равны? " + areHundredsEqual);
+        boolean isEqual = 34 == 55;
+        System.out.println("сотни равны? " + isEqual);
 
         // компьютер включен?
         boolean isComputerOn = true;
@@ -179,8 +179,8 @@ public class VariableNamesTheme {
         System.out.println("сокращенный uniform resource locator: " + shortUri);
 
         // новый идентификатор клиента
-        int clientId = 435343244;
-        System.out.println("новый идентификатор клиента: " + clientId);
+        int newClientId = 435343244;
+        System.out.println("новый идентификатор клиента: " + newClientId);
 
         // кодировка american standard code for information interchange
         String ascii = "ASCII";
